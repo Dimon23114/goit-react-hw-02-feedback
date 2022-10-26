@@ -9,8 +9,6 @@ justify-content: center;
 
 export const List = styled.li`
 margin-right: 15px;
-
-
 `;
 
 export const Button = styled.button`
@@ -21,7 +19,6 @@ border: 1px solid white;
 cursor: pointer;
 color: black;
 border-radius: 30%;
-
 &:hover {
     background-color:aquamarine ;
     color: white;
